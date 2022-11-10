@@ -1,2 +1,0 @@
-Vika - programmika
-poop
