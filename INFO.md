@@ -1,5 +1,6 @@
 git is awesome!
-new line
+new me 
+
 new text
 experiment with amend
 new data
